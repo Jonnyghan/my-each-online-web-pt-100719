@@ -5,4 +5,5 @@ def my_each(argument)
   yield argument[i]
    i = i + 1 
  end
+ array
 end
