@@ -1,7 +1,7 @@
-def my_each(argument) do
+def my_each(argument) {
   while i < argument.length
   argument.collect do |numbers| numbers
 end
-end
+}
 argument
 end
