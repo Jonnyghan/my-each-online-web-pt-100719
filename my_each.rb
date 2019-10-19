@@ -1,3 +1,4 @@
-def my_each(argument)
-  # code here
+def my_each(argument) do
+  while i < argument.length
+  
 end
